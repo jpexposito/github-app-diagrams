@@ -3,6 +3,10 @@
 
 # Trabajando en la nube con diagramas
 
+<div align="center">
+<img src="images/imagen-7.png" width="200px">
+</div>
+
 ## ¿Qué necesitamos?
 Existen numerosas herramientas para realizar diagramas. No vamos a detallar cada, ni los mejores, ni los peores, sólo alguno de ellos, en función de una característica, que es su precio.
 - App.diagrams.
