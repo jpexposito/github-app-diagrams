@@ -107,8 +107,26 @@ Vamos a realizar la integración de app.diagrams dentro de nuestro repositorio G
 <img src="images/imagen-11.png" width="150px">
 </div>
 
+  - __Paso 9:__
+
+  Autorización en el/los repositorio/os que deseas que este activo, y guardar la imagen para poder editar en el futuro, y poder integrar de forma eficiente.
+
+  - __Paso 10: Resultado final__
+
+<div align="center">
+<img src="images/imagen-12.png" width="400px">
+</div>
+
+__Pd__: Aquello que hagas, intenta hacerlo lo mejor posible y siempre con una &#128513;. Siempre con mucho cariño &#x2764;.
 ## Referencias
 - [Conocimiento libre.](https://conocimientolibre.mx/que-es-diagrams-net/#:~:text=Diagrams.net%20es%20una%20aplicaci%C3%B3n,para%20Windows%2C%20Linux%20y%20macOS.)
 - [Almacenamiento de diagramas.](https://www.diagrams.net/blog/cloud-storage-diagrams)
 - [Wikipedia -GitHub.](https://es.wikipedia.org/wiki/GitHub)
+
+## Conecta conmigo
+
+<p align="left">
+  <a href="https://twitter.com/jpexposito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jpexposito" height="30" width="40" /></a>
+  <a href="https://es.linkedin.com/in/jperexposito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://es.linkedin.com/in/jperexposito" height="30" width="40" /></a>
+</p> 
 </div>
