@@ -126,7 +126,7 @@ __Pd__: Aquello que hagas, intenta hacerlo lo mejor posible y siempre con una &#
 ## Conecta conmigo
 
 <p align="left">
-  <a href="https://twitter.com/jpexposito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jpexposito" height="30" width="40" /></a>
-  <a href="https://es.linkedin.com/in/jperexposito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://es.linkedin.com/in/jperexposito" height="30" width="40" /></a>
+  <a href="https://twitter.com/jpexposito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jpexposito" height="15" width="25" /></a>
+  <a href="https://es.linkedin.com/in/jperexposito" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://es.linkedin.com/in/jperexposito" height="15" width="25" /></a>
 </p> 
 </div>
